@@ -1,4 +1,4 @@
-# Candace# Data Wrangling and Cleaning: Titanic Dataset
+# Data Wrangling and Cleaning: Titanic Dataset
 
 Welcome to my data science portfolio project! This repository demonstrates essential data wrangling and cleaning techniques applied to the [Titanic dataset](https://www.kaggle.com/c/titanic). The goal of this project is to transform messy, incomplete data into a structured and analysis-ready format.
 
