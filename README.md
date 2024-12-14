@@ -92,8 +92,8 @@ Welcome to my data science portfolio project! This repository demonstrates essen
 ## Contact
 For questions or feedback, feel free to reach out:
 - **Name**: Candace Grant
-- **Email**: candace.grant@example.com
-- **LinkedIn**: [Candace Grant](https://www.linkedin.com/in/candacegrant)
+- **Email**: aicoaching2025@gmail.com
+- **LinkedIn**: [Candace Grant](https://www.linkedin.com/in/candace215)
 
 ---
 
